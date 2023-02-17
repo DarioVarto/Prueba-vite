@@ -1,6 +1,6 @@
 
 import './App.css'
-import { Titulo,Logo, LogoB,Shape } from './Components'
+import {LogoB,Shape,} from './Components'
 
 
 
@@ -10,11 +10,10 @@ function App() {
   return (
     <>
     
-{/*    <Titulo/>
-
-   <Logo/> */}
+  
 
    <LogoB/>
+   <div>HOlaaaaaaa</div>
 
    <Shape/>
    </>
